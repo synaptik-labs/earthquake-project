@@ -1,2 +1,5 @@
 node_modules/
+frames/*.png
+frames/*.jpg
+frames/*.jpeg
 data.csv
