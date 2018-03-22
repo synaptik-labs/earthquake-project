@@ -3,3 +3,5 @@ frames/*.png
 frames/*.jpg
 frames/*.jpeg
 data.csv
+
+*.mp4

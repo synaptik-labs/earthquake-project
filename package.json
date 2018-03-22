@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.0.0-alpha.9",
+    "fluent-ffmpeg": "^2.1.2",
     "line-reader": "^0.4.0",
     "node-fetch": "^2.0.0"
   }
